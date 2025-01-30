@@ -1,0 +1,14 @@
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\bin\Debug\net8.0\RectangleTest.exe
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\bin\Debug\net8.0\RectangleTest.deps.json
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\bin\Debug\net8.0\RectangleTest.runtimeconfig.json
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\bin\Debug\net8.0\RectangleTest.dll
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\bin\Debug\net8.0\RectangleTest.pdb
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.AssemblyInfoInputs.cache
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.AssemblyInfo.cs
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.csproj.CoreCompileInputs.cache
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.dll
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\refint\RectangleTest.dll
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.pdb
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\RectangleTest.genruntimeconfig.cache
+C:\Users\nickd\source\repos\RectangleTest\RectangleTest\obj\Debug\net8.0\ref\RectangleTest.dll

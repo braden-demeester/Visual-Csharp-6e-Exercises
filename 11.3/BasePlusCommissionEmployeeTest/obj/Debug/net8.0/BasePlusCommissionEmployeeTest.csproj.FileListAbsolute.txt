@@ -1,0 +1,14 @@
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\net8.0\BasePlusCommissionEmployeeTest.exe
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\net8.0\BasePlusCommissionEmployeeTest.deps.json
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\net8.0\BasePlusCommissionEmployeeTest.runtimeconfig.json
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\net8.0\BasePlusCommissionEmployeeTest.dll
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\bin\Debug\net8.0\BasePlusCommissionEmployeeTest.pdb
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.AssemblyInfoInputs.cache
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.AssemblyInfo.cs
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.csproj.CoreCompileInputs.cache
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.dll
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\refint\BasePlusCommissionEmployeeTest.dll
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.pdb
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\BasePlusCommissionEmployeeTest.genruntimeconfig.cache
+C:\Users\nickd\source\repos\BasePlusCommissionEmployeeTest\BasePlusCommissionEmployeeTest\obj\Debug\net8.0\ref\BasePlusCommissionEmployeeTest.dll
