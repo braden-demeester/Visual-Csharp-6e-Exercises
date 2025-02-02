@@ -1,0 +1,14 @@
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\bin\Release\net8.0\MilesPerGallonCalculator.exe
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\bin\Release\net8.0\MilesPerGallonCalculator.deps.json
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\bin\Release\net8.0\MilesPerGallonCalculator.runtimeconfig.json
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\bin\Release\net8.0\MilesPerGallonCalculator.dll
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\bin\Release\net8.0\MilesPerGallonCalculator.pdb
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.AssemblyInfoInputs.cache
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.AssemblyInfo.cs
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.dll
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\refint\MilesPerGallonCalculator.dll
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.pdb
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\MilesPerGallonCalculator.genruntimeconfig.cache
+C:\Users\nickd\source\repos\MilesPerGallonCalculator\MilesPerGallonCalculator\obj\Release\net8.0\ref\MilesPerGallonCalculator.dll
