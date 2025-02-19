@@ -1,0 +1,7 @@
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\bin\Release\ShapeTest.exe.config
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\bin\Release\ShapeTest.exe
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\bin\Release\ShapeTest.pdb
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\obj\Release\ShapeTest.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\obj\Release\ShapeTest.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\obj\Release\ShapeTest.exe
+C:\Users\brade\source\repos\ShapeTest\ShapeTest\obj\Release\ShapeTest.pdb
