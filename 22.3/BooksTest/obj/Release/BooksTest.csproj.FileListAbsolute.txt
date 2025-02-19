@@ -1,0 +1,17 @@
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\BooksDatabase.mdf
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\BooksDatabase_log.ldf
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\BooksTest.exe.config
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\BooksTest.exe
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\BooksTest.pdb
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\EntityFramework.dll
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\EntityFramework.xml
+C:\Users\brade\source\repos\BooksTest\BooksTest\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.DisplayAuthorsTable.resources
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.Properties.Resources.resources
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.csproj.Up2Date
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.exe
+C:\Users\brade\source\repos\BooksTest\BooksTest\obj\Release\BooksTest.pdb
