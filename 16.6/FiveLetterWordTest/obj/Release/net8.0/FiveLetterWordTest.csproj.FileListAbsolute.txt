@@ -1,0 +1,14 @@
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\bin\Release\net8.0\FiveLetterWordTest.exe
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\bin\Release\net8.0\FiveLetterWordTest.deps.json
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\bin\Release\net8.0\FiveLetterWordTest.runtimeconfig.json
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\bin\Release\net8.0\FiveLetterWordTest.dll
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\bin\Release\net8.0\FiveLetterWordTest.pdb
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.AssemblyInfoInputs.cache
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.AssemblyInfo.cs
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.dll
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\refint\FiveLetterWordTest.dll
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.pdb
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\FiveLetterWordTest.genruntimeconfig.cache
+C:\Users\brade\source\repos\16.6\FiveLetterWordTest\obj\Release\net8.0\ref\FiveLetterWordTest.dll
