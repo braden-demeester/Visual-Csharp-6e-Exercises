@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\15.6\FileExplorer\bin\Release\FileExplorer.exe.config
+C:\Users\brade\source\repos\15.6\FileExplorer\bin\Release\FileExplorer.exe
+C:\Users\brade\source\repos\15.6\FileExplorer\bin\Release\FileExplorer.pdb
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.FileExplorerForm.resources
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.Properties.Resources.resources
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.exe
+C:\Users\brade\source\repos\15.6\FileExplorer\obj\Release\FileExplorer.pdb
