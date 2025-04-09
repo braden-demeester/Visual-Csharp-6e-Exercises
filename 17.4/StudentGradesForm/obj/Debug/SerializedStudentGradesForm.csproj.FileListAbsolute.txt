@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\SerializedStudentGradesForm.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\StudentGradesForm.StudentGradesForm.resources
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\SerializedStudentGradesForm.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\SerializedStudentGradesForm.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\SerializedStudentGradesForm.Properties.Resources.resources
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\SerializedStudentGradesForm.exe
+C:\Users\brade\source\repos\17.4\StudentGradesForm\obj\Debug\SerializedStudentGradesForm.pdb
+C:\Users\brade\source\repos\17.4\StudentGradesForm\bin\Debug\SerializedStudentGradesForm.exe.config
+C:\Users\brade\source\repos\17.4\StudentGradesForm\bin\Debug\SerializedStudentGradesForm.exe
+C:\Users\brade\source\repos\17.4\StudentGradesForm\bin\Debug\SerializedStudentGradesForm.pdb
