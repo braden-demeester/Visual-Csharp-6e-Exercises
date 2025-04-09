@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\14.7\EnhancedPainter\bin\Debug\EnhancedPainter.exe.config
+C:\Users\brade\source\repos\14.7\EnhancedPainter\bin\Debug\EnhancedPainter.exe
+C:\Users\brade\source\repos\14.7\EnhancedPainter\bin\Debug\EnhancedPainter.pdb
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.PainterForm.resources
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.Properties.Resources.resources
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.exe
+C:\Users\brade\source\repos\14.7\EnhancedPainter\obj\Debug\EnhancedPainter.pdb
