@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.exe.config
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.exe
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\bin\Debug\TelephoneNumberWordGenerator.pdb
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.Properties.Resources.resources
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.TelephoneNumberInputForm.resources
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.exe
+C:\Users\brade\source\repos\17.7\TelephoneNumberWordGenerator\obj\Debug\TelephoneNumberWordGenerator.pdb
