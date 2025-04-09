@@ -1,0 +1,11 @@
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\bin\Debug\LoginUserControlTest.exe.config
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\bin\Debug\LoginUserControlTest.exe
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\bin\Debug\LoginUserControlTest.pdb
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.Properties.Resources.resources
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.exe
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.pdb
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.LoginTestForm.resources
+C:\Users\brade\source\repos\15.8\LoginUserControlTest\obj\Debug\LoginUserControlTest.LoginPasswordUserControl.resources
