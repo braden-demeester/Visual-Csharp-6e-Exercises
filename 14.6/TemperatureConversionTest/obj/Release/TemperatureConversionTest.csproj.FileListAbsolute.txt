@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\bin\Release\TemperatureConversionTest.exe.config
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\bin\Release\TemperatureConversionTest.exe
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\bin\Release\TemperatureConversionTest.pdb
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.Properties.Resources.resources
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.TemperatureConversionForm.resources
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.exe
+C:\Users\brade\source\repos\14.6\TemperatureConversionTest\obj\Release\TemperatureConversionTest.pdb
