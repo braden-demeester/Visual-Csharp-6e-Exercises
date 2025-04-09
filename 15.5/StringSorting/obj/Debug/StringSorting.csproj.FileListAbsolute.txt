@@ -1,0 +1,10 @@
+C:\Users\brade\source\repos\15.5\StringSorting\bin\Debug\StringSorting.exe.config
+C:\Users\brade\source\repos\15.5\StringSorting\bin\Debug\StringSorting.exe
+C:\Users\brade\source\repos\15.5\StringSorting\bin\Debug\StringSorting.pdb
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.csproj.AssemblyReference.cache
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.Properties.Resources.resources
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.StringSortingForm.resources
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.csproj.GenerateResource.cache
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.exe
+C:\Users\brade\source\repos\15.5\StringSorting\obj\Debug\StringSorting.pdb
