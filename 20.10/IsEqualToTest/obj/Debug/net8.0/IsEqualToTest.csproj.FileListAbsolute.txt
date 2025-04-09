@@ -1,0 +1,14 @@
+C:\Users\brade\source\repos\20.10\IsEqualToTest\bin\Debug\net8.0\IsEqualToTest.exe
+C:\Users\brade\source\repos\20.10\IsEqualToTest\bin\Debug\net8.0\IsEqualToTest.deps.json
+C:\Users\brade\source\repos\20.10\IsEqualToTest\bin\Debug\net8.0\IsEqualToTest.runtimeconfig.json
+C:\Users\brade\source\repos\20.10\IsEqualToTest\bin\Debug\net8.0\IsEqualToTest.dll
+C:\Users\brade\source\repos\20.10\IsEqualToTest\bin\Debug\net8.0\IsEqualToTest.pdb
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.AssemblyInfoInputs.cache
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.AssemblyInfo.cs
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.csproj.CoreCompileInputs.cache
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.dll
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\refint\IsEqualToTest.dll
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.pdb
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\IsEqualToTest.genruntimeconfig.cache
+C:\Users\brade\source\repos\20.10\IsEqualToTest\obj\Debug\net8.0\ref\IsEqualToTest.dll
